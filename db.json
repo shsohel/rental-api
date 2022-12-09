@@ -204,5 +204,6 @@
       "price": 1000,
       "minimum_rent_period": 2
     }
-  ]
+  ],
+  "rents": []
 }
